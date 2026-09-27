@@ -1,0 +1,109 @@
+/* ═══════════════════════════════════════════════════════════════
+   SlotsHacksaw — Main JavaScript
+   Shared across all pages (except homepage which has its own inline JS)
+   ═══════════════════════════════════════════════════════════════ */
+
+(function() {
+  "use strict";
+
+  /* ─── MOBILE BURGER MENU ─────────────────────────────────── */
+  var burger = document.getElementById("burger");
+  var drawer = document.getElementById("drawer");
+
+  if (burger && drawer) {
+    var open = false;
+
+    burger.addEventListener("click", function() {
+      open = !open;
+      drawer.classList.toggle("open", open);
+      var spans = burger.children;
+      spans[0].style.transform = open ? "rotate(45deg) translate(5px, 5px)" : "";
+      spans[1].style.opacity = open ? "0" : "1";
+      spans[2].style.transform = open ? "rotate(-45deg) translate(5px, -5px)" : "";
+    });
+
+    drawer.querySelectorAll("a").forEach(function(a) {
+      a.addEventListener("click", function() {
+        open = false;
+        drawer.classList.remove("open");
+        var spans = burger.children;
+        spans[0].style.transform = "";
+        spans[1].style.opacity = "1";
+        spans[2].style.transform = "";
+      });
+    });
+  }
+
+  /* ─── FAQ ACCORDION ──────────────────────────────────────── */
+  document.querySelectorAll(".faq-q").forEach(function(btn) {
+    btn.addEventListener("click", function() {
+      this.parentElement.classList.toggle("open");
+    });
+  });
+
+  /* ─── COOKIE CONSENT (GDPR) ──────────────────────────────── */
+  var STORAGE_KEY = "sh_consent";
+  var banner = document.getElementById("sh-cookie-banner");
+
+  function getConsent() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function setConsent(data) {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    } catch (e) {
+      /* localStorage disabled — fail silently */
+    }
+  }
+
+  window.shCookieAccept = function() {
+    setConsent({
+      essential: true,
+      analytics: true,
+      affiliate: true,
+      ts: Date.now()
+    });
+    if (banner) banner.classList.remove("show");
+    console.log("[SlotsHacksaw] Cookie consent: accept all");
+
+    /* ═══ GOOGLE ANALYTICS HOOK (uncomment when GA is added) ═══
+    if (typeof gtag === "function") {
+      gtag("consent", "update", {
+        analytics_storage: "granted",
+        ad_storage: "granted"
+      });
+    }
+    ═══════════════════════════════════════════════════════════ */
+  };
+
+  window.shCookieReject = function() {
+    setConsent({
+      essential: true,
+      analytics: false,
+      affiliate: false,
+      ts: Date.now()
+    });
+    if (banner) banner.classList.remove("show");
+    console.log("[SlotsHacksaw] Cookie consent: reject non-essential");
+
+    /* ═══ GOOGLE ANALYTICS HOOK (uncomment when GA is added) ═══
+    if (typeof gtag === "function") {
+      gtag("consent", "update", {
+        analytics_storage: "denied",
+        ad_storage: "denied"
+      });
+    }
+    ═══════════════════════════════════════════════════════════ */
+  };
+
+  /* Show banner if no consent yet */
+  if (banner && !getConsent()) {
+    banner.classList.add("show");
+  }
+
+})();
