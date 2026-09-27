@@ -1,638 +1,112 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <title>Hacksaw Gaming Slots — Free Demo Play & Reviews 2026 | SlotsHacksaw</title>
-  <meta name="description" content="Play every Hacksaw Gaming slot for free — no account, no deposit. Full reviews with RTP data, bonus features, and max win analysis. Le Bandit, Wanted Dead or a Wild, Wildwood Curse + more. Updated weekly."/>
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
-  <link rel="canonical" href="https://slotshacksaw.com/"/>
+  <url>
+    <loc>https://slotshacksaw.com/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
-  <link rel="apple-touch-icon" href="/favicon.svg"/>
-  <meta name="theme-color" content="#21262c"/>
+  <url>
+    <loc>https://slotshacksaw.com/rtp-database/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-  <meta property="og:type" content="website"/>
-  <meta property="og:site_name" content="SlotsHacksaw"/>
-  <meta property="og:url" content="https://slotshacksaw.com/"/>
-  <meta property="og:title" content="Hacksaw Gaming Slots — Free Demo Play & Reviews 2026"/>
-  <meta property="og:description" content="Play every Hacksaw Gaming slot for free — no account, no deposit. Full reviews with RTP data, max win analysis, and bonus feature breakdowns."/>
-  <meta property="og:image" content="https://slotshacksaw.com/og-image.jpg"/>
-  <meta property="og:image:width" content="1200"/>
-  <meta property="og:image:height" content="630"/>
-  <meta property="og:locale" content="en_US"/>
+  <url>
+    <loc>https://slotshacksaw.com/reviews/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Best Hacksaw Gaming Slots 2026 | SlotsHacksaw"/>
-  <meta name="twitter:description" content="Free demo play on every Hacksaw Gaming slot — full RTP analysis and casino rankings."/>
-  <meta name="twitter:image" content="https://slotshacksaw.com/og-image.jpg"/>
+  <url>
+    <loc>https://slotshacksaw.com/author/aleksei-krenvalk/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://slotshacksaw.com/#organization",
-        "name": "SlotsHacksaw",
-        "url": "https://slotshacksaw.com/",
-        "logo": {"@type":"ImageObject","url":"https://slotshacksaw.com/logo.png"},
-        "description": "Independent slot review portal focused on Hacksaw Gaming titles — free demo play, RTP analysis, and bonus feature breakdowns.",
-        "knowsAbout": ["Hacksaw Gaming","Online Slots","Cluster Pays","Slot RTP","Free Demo Play","Bonus Features"]
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://slotshacksaw.com/#website",
-        "url": "https://slotshacksaw.com/",
-        "name": "SlotsHacksaw",
-        "publisher": {"@id": "https://slotshacksaw.com/#organization"},
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://slotshacksaw.com/?s={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
-      },
-      {
-        "@type": "Person",
-        "@id": "https://slotshacksaw.com/#author-aleksei-krenvalk",
-        "name": "Aleksei Krenvalk",
-        "jobTitle": "Senior iGaming Analyst & Casino Reviewer",
-        "description": "Aleksei Krenvalk is a Senior iGaming Analyst with over 12 years of experience in the online casino industry.",
-        "url": "https://slotshacksaw.com/author/aleksei-krenvalk/",
-        "sameAs": ["https://www.linkedin.com/in/aleksei-krenvalk","https://twitter.com/alekseikrenvalk"],
-        "image": "https://slotshacksaw.com/assets/aleksei-krenvalk.png",
-        "worksFor": {"@id": "https://slotshacksaw.com/#organization"},
-        "knowsAbout": ["Online Casino","Slot RTP","Casino Licensing","Bonus Terms","Responsible Gambling"]
-      },
-      {
-        "@type": "ItemList",
-        "@id": "https://slotshacksaw.com/#casino-ranking",
-        "name": "Best Online Casinos for Hacksaw Gaming Slots 2026",
-        "numberOfItems": 7,
-        "itemListElement": [
-          {"@type":"ListItem","position":1,"name":"ArcadeRoyal","url":"https://slotshacksaw.com/reviews/arcaderoyal/"},
-          {"@type":"ListItem","position":2,"name":"KingSlot","url":"https://slotshacksaw.com/reviews/kingslot/"},
-          {"@type":"ListItem","position":3,"name":"RoyalWins","url":"https://slotshacksaw.com/reviews/royalwins/"},
-          {"@type":"ListItem","position":4,"name":"BlazeFire Casino","url":"https://slotshacksaw.com/reviews/blazefire/"},
-          {"@type":"ListItem","position":5,"name":"SpeedSpin","url":"https://slotshacksaw.com/reviews/speedspin/"},
-          {"@type":"ListItem","position":6,"name":"BlazeReels","url":"https://slotshacksaw.com/reviews/blazereels/"},
-          {"@type":"ListItem","position":7,"name":"MaxSpin","url":"https://slotshacksaw.com/reviews/maxspin/"}
-        ]
-      },
-      {
-        "@type": "FAQPage",
-        "@id": "https://slotshacksaw.com/#faq",
-        "mainEntity": [
-          {"@type":"Question","name":"How do I play Hacksaw Gaming slots for free?","acceptedAnswer":{"@type":"Answer","text":"SlotsHacksaw offers free demo play on every Hacksaw Gaming title — no account required, no deposit, no real money. Click any slot card to launch the demo instantly."}},
-          {"@type":"Question","name":"What is RTP in online slots?","acceptedAnswer":{"@type":"Answer","text":"RTP (Return to Player) is the percentage of wagered money a slot pays back to players over millions of spins. A 96% RTP means theoretically €96 is returned for every €100 wagered."}},
-          {"@type":"Question","name":"Which Hacksaw Gaming slot has the highest RTP?","acceptedAnswer":{"@type":"Answer","text":"Power of Ten and Munchy Milo both offer 96.50% RTP. The Respinners (96.40%) and Wanted Dead or a Wild (96.38%) are also top-tier options."}},
-          {"@type":"Question","name":"Which Hacksaw Gaming slot has the highest max win?","acceptedAnswer":{"@type":"Answer","text":"The Wildwood Curse, Zeus ze Zecond, and Chaos Crew 2 all offer a 20,000× max win — the highest in the Hacksaw Gaming library. The Respinners reaches 15,000×."}},
-          {"@type":"Question","name":"Can I play Hacksaw Gaming slots for free without signing up?","acceptedAnswer":{"@type":"Answer","text":"Yes. SlotsHacksaw provides free demo play on every Hacksaw Gaming slot with no account required, no deposit, and no registration."}}
-        ]
-      }
-    ]
-  }
-  </script>
+  <url>
+    <loc>https://slotshacksaw.com/about/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
-  <link rel="stylesheet" href="/css/main.css"/>
+  <url>
+    <loc>https://slotshacksaw.com/contact/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
 
-  <style>
-    .hero {
-      padding: 72px 0 56px;
-      border-bottom: 1px solid var(--line-soft);
-      position: relative;
-      overflow: hidden;
-    }
-    .hero-grid-bg {
-      position: absolute; inset: 0;
-      pointer-events: none;
-      background-image:
-        linear-gradient(var(--line-soft) 1px, transparent 1px),
-        linear-gradient(90deg, var(--line-soft) 1px, transparent 1px);
-      background-size: 56px 56px;
-      opacity: 0.35;
-      mask-image: radial-gradient(ellipse 70% 60% at 50% 30%, #000 30%, transparent 80%);
-      -webkit-mask-image: radial-gradient(ellipse 70% 60% at 50% 30%, #000 30%, transparent 80%);
-    }
-    .hero-inner { position: relative; }
-    .hero-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      padding: 6px 14px 6px 6px;
-      background: rgba(2,91,255,0.12);
-      border: 1px solid rgba(2,91,255,0.25);
-      border-radius: 999px;
-      margin-bottom: 24px;
-      font-size: 12px;
-      color: var(--fg-2);
-      font-weight: 500;
-    }
-    .hero-badge-tag {
-      padding: 3px 9px;
-      background: var(--blue);
-      color: #fff;
-      border-radius: 999px;
-      font-size: 10.5px;
-      font-weight: 700;
-      letter-spacing: 0.6px;
-    }
-    .hero h1 {
-      font-size: clamp(36px, 5.5vw, 72px);
-      font-weight: 800;
-      letter-spacing: -2px;
-      line-height: 1.02;
-      margin-bottom: 24px;
-      max-width: 900px;
-    }
-    .hero h1 em {
-      font-family: var(--serif);
-      font-style: italic;
-      font-weight: 400;
-      color: var(--blue);
-    }
-    .hero-lead {
-      font-size: 17px;
-      color: var(--fg-2);
-      line-height: 1.7;
-      max-width: 640px;
-      margin-bottom: 32px;
-    }
-    .hero-ctas {
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
-      margin-bottom: 44px;
-    }
-    .hero-metrics {
-      display: flex;
-      gap: 36px;
-      flex-wrap: wrap;
-      padding-top: 28px;
-      border-top: 1px solid var(--line-soft);
-    }
-    .metric-v {
-      font-family: var(--serif);
-      font-style: italic;
-      font-size: 32px;
-      font-weight: 400;
-      color: #fff;
-      line-height: 1;
-      letter-spacing: -1px;
-    }
-    .metric-l {
-      font-size: 11.5px;
-      color: var(--fg-3);
-      margin-top: 6px;
-      letter-spacing: 0.4px;
-      text-transform: uppercase;
-      font-weight: 500;
-    }
-    .slots-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 20px;
-    }
-    @media (min-width: 640px) {
-      .slots-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-    @media (min-width: 900px) {
-      .slots-grid { grid-template-columns: repeat(3, 1fr); }
-    }
-    .slot-card {
-      display: block;
-      background: none;
-      border: none;
-      padding: 0;
-      text-align: left;
-      width: 100%;
-      cursor: pointer;
-    }
-    .slot-card-inner {
-      position: relative;
-      border-radius: 16px;
-      overflow: hidden;
-      border: 1px solid var(--line-soft);
-      aspect-ratio: 16/10;
-      transition: border-color 0.25s, box-shadow 0.25s;
-    }
-    .slot-card:hover .slot-card-inner {
-      border-color: rgba(2,91,255,0.5);
-      box-shadow: 0 20px 60px rgba(0,0,0,0.55);
-    }
-    .slot-card-bg {
-      position: absolute;
-      inset: 0;
-      background-size: cover;
-      background-position: center;
-      transition: transform 0.35s cubic-bezier(.2,.8,.3,1);
-    }
-    .slot-card:hover .slot-card-bg { transform: scale(1.06); }
-    .slot-card-gradient {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.05) 65%);
-    }
-    .slot-card-content {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      padding: 16px 18px;
-    }
-    .slot-card-studio {
-      font-size: 10px;
-      color: var(--blue);
-      font-weight: 700;
-      letter-spacing: 1.4px;
-      text-transform: uppercase;
-      margin-bottom: 5px;
-    }
-    .slot-card-name {
-      font-size: 19px;
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.4px;
-      margin-bottom: 10px;
-    }
-    .slot-card-tags {
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-    }
-    .slot-card-tag {
-      font-size: 11px;
-      color: var(--fg-2);
-      background: rgba(255,255,255,0.10);
-      padding: 3px 9px;
-      border-radius: 6px;
-      backdrop-filter: blur(4px);
-    }
-    .slot-card-play {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: rgba(0,0,0,0.28);
-      opacity: 0;
-      transition: opacity 0.2s;
-    }
-    .slot-card:hover .slot-card-play { opacity: 1; }
-    .play-circle {
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      background: var(--blue);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 0 40px rgba(2,91,255,0.6);
-    }
-    .play-circle svg { margin-left: 3px; }
-    .lib-table {
-      background: var(--bg-2);
-      border: 1px solid var(--line-soft);
-      border-radius: 16px;
-      overflow: hidden;
-    }
-    .lib-head {
-      display: grid;
-      grid-template-columns: 52px 2fr 1fr 1fr 1fr;
-      padding: 14px 24px;
-      background: var(--bg-3);
-      font-size: 10.5px;
-      color: var(--fg-3);
-      font-weight: 600;
-      letter-spacing: 1.2px;
-      text-transform: uppercase;
-      gap: 16px;
-    }
-    .lib-row {
-      display: grid;
-      grid-template-columns: 52px 2fr 1fr 1fr 1fr;
-      padding: 16px 24px;
-      border-top: 1px solid var(--line-soft);
-      gap: 16px;
-      align-items: center;
-    }
-    .lib-row:first-of-type { border-top: none; }
-    .lib-row.top {
-      background: linear-gradient(90deg, rgba(2,91,255,0.08), transparent);
-    }
-    .lib-rank {
-      font-family: var(--serif);
-      font-style: italic;
-      font-size: 22px;
-      color: var(--fg-3);
-    }
-    .lib-row.top .lib-rank { color: var(--blue); }
-    .lib-slot-name {
-      font-size: 15px;
-      font-weight: 600;
-      letter-spacing: -0.2px;
-      color: #fff;
-    }
-    .lib-studio {
-      font-size: 12px;
-      color: var(--fg-4);
-      margin-top: 2px;
-    }
-    .lib-val {
-      font-family: var(--mono);
-      font-size: 13px;
-      color: #fff;
-    }
-    .lib-vol {
-      font-size: 13px;
-      color: var(--fg-2);
-    }
-    @media (max-width: 640px) {
-      .lib-head {
-        grid-template-columns: 40px 1.6fr 1fr;
-        padding: 12px 16px;
-        gap: 10px;
-      }
-      .lib-head span:nth-child(4),
-      .lib-head span:nth-child(5) { display: none; }
-      .lib-row {
-        grid-template-columns: 40px 1.6fr 1fr;
-        padding: 14px 16px;
-        gap: 10px;
-      }
-      .lib-row .lib-vol,
-      .lib-row .lib-val:last-child { display: none; }
-    }
-    .author-card {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 24px;
-      background: var(--bg-2);
-      border: 1px solid var(--line-soft);
-      border-radius: 20px;
-      padding: 32px;
-    }
-    @media (min-width: 640px) {
-      .author-card {
-        grid-template-columns: auto 1fr;
-        gap: 32px;
-        align-items: start;
-      }
-    }
-    .author-avatar {
-      width: 110px;
-      height: 110px;
-      border-radius: 50%;
-      overflow: hidden;
-      border: 3px solid rgba(2,91,255,0.35);
-      box-shadow: 0 0 40px rgba(2,91,255,0.25);
-      flex-shrink: 0;
-      background: var(--bg-3);
-    }
-    .author-avatar img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-    .author-name {
-      font-size: 22px;
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.4px;
-      margin-bottom: 4px;
-    }
-    .author-role {
-      font-size: 13px;
-      color: var(--blue);
-      font-weight: 600;
-      margin-bottom: 16px;
-    }
-    .author-bio {
-      font-size: 14.5px;
-      color: var(--fg-2);
-      line-height: 1.72;
-      margin-bottom: 16px;
-    }
-    .author-stats {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-      margin-bottom: 18px;
-      padding-bottom: 18px;
-      border-bottom: 1px solid var(--line-soft);
-    }
-    .author-stat-v {
-      font-family: var(--mono);
-      font-size: 20px;
-      font-weight: 700;
-      color: #fff;
-      letter-spacing: -0.5px;
-    }
-    .author-stat-l {
-      font-size: 11px;
-      color: var(--fg-3);
-      margin-top: 2px;
-    }
-  </style>
-</head>
-<body>
+  <url>
+    <loc>https://slotshacksaw.com/hacksaw-gaming-casinos/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-<nav class="site-nav">
-  <div class="nav-inner">
-    <a href="/" class="nav-brand">
-      <svg width="26" height="26" viewBox="0 0 32 32" fill="none" aria-hidden="true">
-        <defs><linearGradient id="nav-g" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#2B78FF"/><stop offset="100%" stop-color="#014FE0"/></linearGradient></defs>
-        <rect width="32" height="32" rx="8" fill="url(#nav-g)"/>
-        <path d="M20 5 L10 18 H15.5 L12 27 L22 14 H16.5 Z" fill="white"/>
-      </svg>
-      SlotsHacksaw
-    </a>
-    <div class="nav-links">
-      <a href="/" class="nav-link">Top Slots</a>
-      <a href="/reviews/" class="nav-link">Casinos</a>
-      <a href="/rtp-database/" class="nav-link">RTP Database</a>
-      <a href="/hacksaw-gaming-casinos/" class="nav-link">Hacksaw Casinos</a>
-      <a href="/bonuses/casino-bonuses/" class="nav-link">Bonuses</a>
-      <div class="nav-sep"></div>
-      <a href="/about/" class="nav-link">About</a>
-    </div>
-    <button class="nav-burger" id="burger" aria-label="Toggle menu" type="button">
-      <span></span><span></span><span></span>
-    </button>
-  </div>
-</nav>
+  <url>
+    <loc>https://slotshacksaw.com/cluster-pays-slots/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-<div class="nav-drawer" id="drawer">
-  <a href="/">Top Slots</a>
-  <a href="/reviews/">Casinos</a>
-  <a href="/rtp-database/">RTP Database</a>
-  <a href="/hacksaw-gaming-casinos/">Hacksaw Casinos</a>
-  <a href="/cluster-pays-slots/">Cluster Pays</a>
-  <a href="/bonuses/casino-bonuses/">Casino Bonuses</a>
-  <a href="/bonuses/free-spins-no-deposit/">Free Spins</a>
-  <a href="/about/">About</a>
-</div>
+  <url>
+    <loc>https://slotshacksaw.com/bonuses/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-<div class="compliance">
-  <div class="compliance-inner">
-    <span style="display:inline-flex;align-items:center;gap:6px;color:#fff;font-weight:600;">
-      <span class="badge-18">18+</span> Gambling can be addictive. Play responsibly.
-    </span>
-    <span><a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a></span>
-    <span><a href="https://www.gamcare.org.uk" target="_blank" rel="noopener">GamCare.org.uk</a></span>
-    <span style="margin-left:auto;color:var(--fg-4);">Last updated: Nov 4, 2026</span>
-  </div>
-</div>
+  <url>
+    <loc>https://slotshacksaw.com/bonuses/casino-bonuses/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-<main>
+  <url>
+    <loc>https://slotshacksaw.com/bonuses/free-spins-no-deposit/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-  <section class="hero">
-    <div class="hero-grid-bg"></div>
-    <div class="wrap hero-inner">
-      <div class="hero-badge">
-        <span class="hero-badge-tag">LIVE</span>
-        <span>Updated Nov 2026 · Free demos · No sign-up needed</span>
-      </div>
-      <h1>
-        The best <em>Hacksaw Gaming</em><br/>
-        slots are free to play here.
-      </h1>
-      <p class="hero-lead">
-        Full RTP analysis, bonus feature breakdowns, and free demo play for every Hacksaw Gaming title — no account, no deposit, no real money required.
-      </p>
-      <div class="hero-ctas">
-        <a href="#top-casinos" class="btn btn-primary">See Top 7 Casinos →</a>
-        <a href="#slots" class="btn btn-secondary">Browse all slots</a>
-      </div>
-      <div class="hero-metrics">
-        <div><div class="metric-v">47</div><div class="metric-l">Licensed sites tested</div></div>
-        <div><div class="metric-v">€2.1M</div><div class="metric-l">Payouts tracked</div></div>
-        <div><div class="metric-v">18 mo</div><div class="metric-l">Evidence window</div></div>
-        <div><div class="metric-v">100+</div><div class="metric-l">Hacksaw slots reviewed</div></div>
-      </div>
-    </div>
-  </section>
+  <url><loc>https://slotshacksaw.com/demo/le-bandit/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/wanted-dead-or-a-wild/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/the-wildwood-curse/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/munchy-milo/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/chaos-crew-2/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/stack-em/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/rip-city/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/the-respinners/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/magic-piggy-og/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/sand-and-ashes/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/3-cursed-chests/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/dynasty-of-death/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/power-of-ten/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/epic-bullets-and-bounty/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/demo/marlin-master-atlantis/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <section class="section" id="top-casinos">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <div class="kicker">Casino Ranking · November 2026</div>
-          <h2 class="section-title">The best casinos for <em>Hacksaw Gaming</em>.</h2>
-          <p class="section-sub">Every casino below has been personally tested with real money by our editor. Verified licences, real payouts, honest bonus terms.</p>
-        </div>
-      </div>
-      <div class="tbl-head">
-        <span>Rank</span><span>Casino</span><span>Welcome Bonus</span><span>Avg RTP</span><span>Payout</span><span></span>
-      </div>
-      <div id="casino-ranking"></div>
-      <p class="tbl-note">18+ · New customers only · T&amp;Cs apply · All casinos independently tested with real money · <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a></p>
-    </div>
-  </section>
+  <url><loc>https://slotshacksaw.com/reviews/arcaderoyal/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/reviews/kingslot/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/reviews/royalwins/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/reviews/blazefire/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/reviews/speedspin/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/reviews/blazereels/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://slotshacksaw.com/reviews/maxspin/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <section class="section" id="slots">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <div class="kicker">Featured Slots · Play Free</div>
-          <h2 class="section-title">Top slots to try <em>right now</em>.</h2>
-          <p class="section-sub">Click any slot to play the free demo — no account, no deposit, no real money required.</p>
-        </div>
-      </div>
-      <div class="slots-grid" id="featured-slots"></div>
-    </div>
-  </section>
+  <url><loc>https://slotshacksaw.com/responsible-gambling/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://slotshacksaw.com/editorial-policy/</loc><lastmod>2026-11-04</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://slotshacksaw.com/affiliate-disclosure/</loc><lastmod>2026-11-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://slotshacksaw.com/privacy/</loc><lastmod>2026-11-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://slotshacksaw.com/terms/</loc><lastmod>2026-11-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://slotshacksaw.com/cookie-policy/</loc><lastmod>2026-11-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
 
-  <section class="section">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <div class="kicker">Full Library · Ranked by RTP</div>
-          <h2 class="section-title">Every Hacksaw slot, <em>one place</em>.</h2>
-          <p class="section-sub">Independent RTP analysis of every Hacksaw Gaming title we've tested.</p>
-        </div>
-      </div>
-      <div class="lib-table">
-        <div class="lib-head">
-          <span>#</span><span>Slot</span><span>RTP</span><span>Volatility</span><span>Max Win</span>
-        </div>
-        <div id="lib-rows"></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <div class="kicker">FAQ</div>
-          <h2 class="section-title">Common <em>questions</em>.</h2>
-        </div>
-      </div>
-      <div class="faq-list">
-        <div class="faq-item">
-          <button class="faq-q" type="button">How do I play Hacksaw Gaming slots for free? <span class="faq-icon">+</span></button>
-          <div class="faq-a">Click any slot card on this page to launch the free demo instantly. No account required, no deposit, no real money — all demos run on virtual credits.</div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" type="button">What is RTP in online slots? <span class="faq-icon">+</span></button>
-          <div class="faq-a">RTP (Return to Player) is the percentage of wagered money a slot pays back to players over millions of spins. A 96% RTP means theoretically €96 is returned for every €100 wagered.</div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" type="button">Which Hacksaw Gaming slot has the highest RTP? <span class="faq-icon">+</span></button>
-          <div class="faq-a">Power of Ten and Munchy Milo both offer 96.50% RTP — the highest verified figures in our database. The Respinners (96.40%) and Wanted Dead or a Wild (96.38%) are also top-tier options.</div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" type="button">Which Hacksaw Gaming slot has the highest max win? <span class="faq-icon">+</span></button>
-          <div class="faq-a">The Wildwood Curse, Zeus ze Zecond, and Chaos Crew 2 all offer a 20,000× max win — the highest in the Hacksaw Gaming library. The Respinners reaches 15,000×.</div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" type="button">Can I play Hacksaw Gaming slots for free without signing up? <span class="faq-icon">+</span></button>
-          <div class="faq-a">Yes. Every Hacksaw Gaming slot on this site is available as a free demo with no registration required. Demo mode uses virtual credits only — no real money is wagered or at risk.</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="wrap">
-      <div class="kicker">About the Author</div>
-      <div class="author-card" style="margin-top:12px;">
-        <div class="author-avatar">
-          <img src="/assets/aleksei-krenvalk.png" alt="Aleksei Krenvalk — Senior iGaming Analyst" loading="lazy"/>
-        </div>
-        <div>
-          <h3 class="author-name">Aleksei Krenvalk</h3>
-          <div class="author-role">Senior iGaming Analyst &amp; Casino Reviewer</div>
-          <p class="author-bio">
-            Aleksei has been testing online casinos and slots for over 12 years. Every review on SlotsHacksaw passes through his personal audit process: real-money deposit, withdrawal test, full T&amp;C analysis, and a minimum of 200 play hours.
-          </p>
-          <div class="author-stats">
-            <div><div class="author-stat-v">12+</div><div class="author-stat-l">Years in iGaming</div></div>
-            <div><div class="author-stat-v">200+</div><div class="author-stat-l">Casinos tested</div></div>
-            <div><div class="author-stat-v">€2.1M</div><div class="author-stat-l">Payouts tracked</div></div>
-            <div><div class="author-stat-v">100+</div><div class="author-stat-l">Slots reviewed</div></div>
-          </div>
-          <a href="/author/aleksei-krenvalk/" class="btn btn-secondary" style="font-size:13px;padding:10px 18px;">Read full profile →</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-</main>
-
-<footer class="site-footer">
-  <div class="wrap">
-    <div class="footer-grid">
-      <div>
-        <a href="/" style="display:flex;align-items:center;gap:10px;font-weight:700;font-size:16px;color:#fff;">
-          <svg width="26" height="26" viewBox="0 0 32 32" fill="none"><defs><linearGradient id="ft-g" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#2B78FF"/><stop offset="100%" stop-color="#014FE0"/></linearGradient></defs><rect width="32" height="32" rx="8" fill="url(#ft-g)"/><path d="M20 5 L10 18 H15.5 L12 27 L22 14 H16.5 Z" fill="white"/></svg>
-          SlotsHacksaw
-        </a>
-        <p class="footer-brand-desc">
-          Independent reviews of licensed online casinos worldwide. We're an affiliate site — we may earn commission on sign-ups, but our rankings are not for sale.
-       
+</urlset>
